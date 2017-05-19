@@ -1,0 +1,39 @@
+<products>
+book
+Data Abstraction & Problem Solving with C++
+79.99
+19
+Carrano and Henry
+978-013292372-9
+book
+Great Men and Women of Troy
+19.5
+5
+Tommy Trojan
+978-000000000-1
+clothing
+Men's Fitted Shirt
+39.99
+25
+Medium
+J. Crew
+movie
+Hidden Figures DVD
+17.99
+1
+Drama
+PG
+</products>
+<users>
+rafsilva 21 0
+redekopp 50 1
+saty 120 1
+</users>
+<reviews>
+Hidden Figures DVD
+4 redekopp Very good
+Hidden Figures DVD
+5 rafsilva Excellent...Oscar worthy
+Data Abstraction & Problem Solving with C++
+3 saty Is this required?
+</reviews>

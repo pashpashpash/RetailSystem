@@ -1,0 +1,7 @@
+Product Details
+book
+Data Abstraction & Problem Solving with C++
+79.99
+20
+Carrano and Henry
+978-013292372-9
